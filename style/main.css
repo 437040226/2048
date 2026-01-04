@@ -124,11 +124,11 @@ h1.title {
 }
 
 .score-container:after {
-  content: "本轮分数";
+  content: "Current Score";
 }
 
 .best-container:after {
-  content: "历史最高";
+  content: "Best Score";
 }
 
 p {
